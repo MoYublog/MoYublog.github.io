@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Python报错解决步骤</title>
+      <link href="/2023/01/01/Python/"/>
+      <url>/2023/01/01/Python/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Python报错处理"><a href="#Python报错处理" class="headerlink" title="Python报错处理"></a>Python报错处理</h2><p>一、SyntaxError: 语法错误</p><h1 id="例：忘记加英文冒号"><a href="#例：忘记加英文冒号" class="headerlink" title="例：忘记加英文冒号"></a>例：忘记加英文冒号</h1><p>def func1()<br>  print(‘Hello World’)</p><h1 id="报错：SyntaxError-invalid-syntax"><a href="#报错：SyntaxError-invalid-syntax" class="headerlink" title="报错：SyntaxError: invalid syntax"></a>报错：SyntaxError: invalid syntax</h1><h1 id="（语法错误：无效的语法）"><a href="#（语法错误：无效的语法）" class="headerlink" title="（语法错误：无效的语法）"></a>（语法错误：无效的语法）</h1><h1 id="正确写法"><a href="#正确写法" class="headerlink" title="正确写法"></a>正确写法</h1><p>def func1():<br>  print(‘Hello World’)</p><h1 id="Python在编译器中的变量"><a href="#Python在编译器中的变量" class="headerlink" title="Python在编译器中的变量"></a>Python在编译器中的变量</h1><p>二、保留字符的使用<br>Python中自带的保留字符不能用于在变量名使用</p><h1 id="Python中的保留字符"><a href="#Python中的保留字符" class="headerlink" title="Python中的保留字符"></a>Python中的保留字符</h1><p> ‘False’, ‘None’, ‘True’, ‘and’, ‘as’, ‘assert’, ‘async’, ‘await’, ‘break’, ‘class’, ‘continue’, ‘<br> def’, ‘del’, ‘elif’, ‘else’, ‘except’, ‘finally’, ‘for’, ‘from’, ‘global’, ‘if’, # ‘import’, ‘in’, ‘is’, ‘lambda’,<br> ‘nonlocal’, ‘not’, ‘or’, ‘pass’, ‘raise’, ‘return’, ‘try’, ‘while’, ‘with’, ‘yield’</p><h1 id="错误演示"><a href="#错误演示" class="headerlink" title="错误演示"></a>错误演示</h1><p>if = “成功的路上，一定很艰辛”<br>print(if)</p><h1 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h1><p>  File “E:\代码\Python\py基础\理解Python中的变量.py”, line 33<br>    if = “成功的路上，一定很艰辛”<br>       ^<br>SyntaxError: invalid syntax</p><h1 id="正确写法-1"><a href="#正确写法-1" class="headerlink" title="正确写法"></a>正确写法</h1><p><img src="https://cdn.staticaly.com/gh/MoYublog/tupian@main/img/%E8%B5%84%E6%96%99/1.webp" alt="out"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>C基础</title>
+      <link href="/2023/01/01/2023-1-1-C%E8%AF%AD%E8%A8%80/"/>
+      <url>/2023/01/01/2023-1-1-C%E8%AF%AD%E8%A8%80/</url>
+      
+        <content type="html"><![CDATA[<h1 id="C-简介"><a href="#C-简介" class="headerlink" title="C 简介"></a>C 简介</h1><p>&nbsp;&nbsp;&nbsp;C 语言是为了编写 UNIX 操作系统而被发明的。C 语言是以 B 语言为基础的，B 语言大概是在 1970 年被引进的。C 语言标准是于 1988 年由美国国家标准协会（ANSI，全称 American National Standard Institute）制定的。截至 1973 年，UNIX 操作系统完全使用 C 语言编写。<br>目前，C 语言是最广泛使用的系统程序设计语言。大多数先进的软件都是使用 C 语言实现的。当今最流行的 Linux 操作系统和 RDBMS（Relational Database Management System：关系数据库管理系统） MySQL 都是使用 C 语言编写的。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2022 年度总结与全新的大饼</title>
+      <link href="/2022/12/28/2022%E5%B9%B4%E6%80%BB%E7%BB%93/"/>
+      <url>/2022/12/28/2022%E5%B9%B4%E6%80%BB%E7%BB%93/</url>
+      
+        <content type="html"><![CDATA[<h1 id="2022年鼠年结束了"><a href="#2022年鼠年结束了" class="headerlink" title="2022年鼠年结束了"></a>2022年鼠年结束了</h1><p> 子在川上曰：逝者如斯夫，不舍昼夜。转眼间，中二上的美好时光已经匆匆地向我挥手告别，中二的下未知生活又冲我展露微笑。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计算机发展简史</title>
+      <link href="/2022/12/16/%E5%85%B3%E4%BA%8EIT%E8%A1%8C%E4%B8%9A%20%E7%9A%84%E5%8F%91%E5%B1%95/"/>
+      <url>/2022/12/16/%E5%85%B3%E4%BA%8EIT%E8%A1%8C%E4%B8%9A%20%E7%9A%84%E5%8F%91%E5%B1%95/</url>
+      
+        <content type="html"><![CDATA[<h2 id="计算机解析文章"><a href="#计算机解析文章" class="headerlink" title="计算机解析文章"></a>计算机解析文章</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>墨羽文章</title>
+      <link href="/2022/12/12/%E5%A2%A8%E7%BE%BD%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/12/12/%E5%A2%A8%E7%BE%BD%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="简述自我"><a href="#简述自我" class="headerlink" title="简述自我"></a>简述自我</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }  /* 字体 */  @font-face {    /* 为载入的字体取名字(随意) */    font-family: 'YSHST';    /* 字体文件地址(相对或者绝对路径都可以) */    src: url(/font/优设好身体.woff2);    /* 定义加粗样式(加粗多少) */    font-weight: normal;    /* 定义字体样式(斜体/非斜体) */    font-style: normal;    /* 定义显示样式 */    font-display: block;  }  /* 飞机滚动 */  ::-webkit-scrollbar {    width: 8px;    height: 0px}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
